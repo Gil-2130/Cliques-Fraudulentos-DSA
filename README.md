@@ -1,5 +1,7 @@
 # Cliques-Fraudulentos-DSA
 
+## Formação Cientista de Dados https://www.datascienceacademy.com.br/home
+
 ## Projeto Com Feedback 1
 
 Detecção de Fraudes no tráfego de cliques em propagandas de Aplicações Mobile.
